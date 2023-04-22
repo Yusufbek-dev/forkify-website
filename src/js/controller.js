@@ -134,4 +134,3 @@ const init = function() {
   // addRecipeView.AddHandlerUpload(controlAddRecipe)
 };
 init();
-console.log("hello");
