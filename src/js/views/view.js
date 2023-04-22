@@ -49,6 +49,7 @@ export default class View {
      this._parentElement.innerHTML ='';
   }
 
+  
   renderSpinner() {
     const markup = ` 
       <div class="spinner">
